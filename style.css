@@ -1,0 +1,13 @@
+.slidecontainer {
+    width: 100%; /* Width of the outside container */
+}
+
+#demo{
+    width:100px;
+    height:100px;
+    background-color: #3f4bce;
+}
+.main{
+    display: flex;
+    justify-content: right;
+}
